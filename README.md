@@ -58,6 +58,49 @@ Encontra a rota de menor distância entre dois módulos, garantindo a distribui�
 | Lista de adjacência | `grafo` usado nos algoritmos | Eficiente para grafos esparsos |
 
 ---
+## ▶️ Como Executar
+
+### Pré-requisitos
+
+- Python 3.7 ou superior
+- Nenhuma biblioteca externa é necessária para o sistema principal
+
+```bash
+python3 codigo_fonte.py
+```
+
+ou, no Windows:
+
+```bash
+python codigo_fonte.py
+```
+
+> Os scripts auxiliares de geração de PDF requerem `reportlab`:
+> `pip install reportlab`
+
+---
+
+## 🖥️ Menu do Sistema
+
+Ao executar o arquivo principal, o seguinte menu estará disponível:
+
+```
+============================================================
+  SIGIC — Sistema Inteligente de Gerenciamento da Infraestrutura da Colônia
+============================================================
+
+  [1]  Visualizar rede da colônia (conexões)
+  [2]  Visualizar matriz de adjacência
+  [3]  Consultar módulos da colônia
+  [4]  Executar BFS (Busca em Largura)
+  [5]  Executar DFS (Busca em Profundidade)
+  [6]  Executar Dijkstra (Caminho Mínimo)
+  [7]  Detectar pontos críticos da rede
+  [8]  Modelagem matemática e eficiência
+  [9]  Sustentabilidade e Governança ESG
+  [10] Simular falha de módulo
+  [0]  Sair do sistema
+```
 
 ## 🎥 Vídeo de Apresentação
 
