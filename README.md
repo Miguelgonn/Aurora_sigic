@@ -1,3 +1,5 @@
+# 🚀 SIGIC — Sistema Inteligente de Gerenciamento da Infraestrutura da Colônia
+
 ## 👥 Equipe
 
 | Nome | RM |
@@ -6,8 +8,6 @@
 | Kaique           | rm570533 |
 | Miguel Antunes   | rm573643 |
 | Miguel Gonçalves | rm573793 |
-
-# 🚀 SIGIC — Sistema Inteligente de Gerenciamento da Infraestrutura da Colônia
 
 ## 📋 Descrição do Projeto
 
