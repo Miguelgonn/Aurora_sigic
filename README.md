@@ -65,18 +65,11 @@ Encontra a rota de menor distância entre dois módulos, garantindo a distribui�
 - Python 3.7 ou superior
 - Nenhuma biblioteca externa é necessária para o sistema principal
 
-```bash
-python3 codigo_fonte.py
-```
-
-ou, no Windows:
+ Windows:
 
 ```bash
-python codigo_fonte.py
+python codigo.py
 ```
-
-> Os scripts auxiliares de geração de PDF requerem `reportlab`:
-> `pip install reportlab`
 
 ---
 
