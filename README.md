@@ -21,9 +21,7 @@ O **SIGIC** é um sistema desenvolvido em Python que representa computacionalmen
 
 ---
 
-============================================================
-  SIGIC — Sistema Inteligente de Gerenciamento da Infraestrutura da Colônia
-============================================================
+## SIGIC — Sistema Inteligente de Gerenciamento da Infraestrutura da Colônia
 
   [1]  Visualizar rede da colônia (conexões)
   [2]  Visualizar matriz de adjacência
