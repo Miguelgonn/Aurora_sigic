@@ -1,10 +1,5 @@
 # 🚀 SIGIC — Sistema Inteligente de Gerenciamento da Infraestrutura da Colônia
 
-> **Colônia Aurora Siger | Base Marciana**
-> Atividade Integradora — Fase 2
-
----
-
 ## 📋 Descrição do Projeto
 
 O **SIGIC** é um sistema desenvolvido em Python que representa computacionalmente a infraestrutura da base marciana **Aurora Siger**. Ele modela a rede de módulos da colônia usando grafos e implementa algoritmos clássicos de teoria de redes para otimizar a distribuição de energia e a operação da base.
@@ -26,51 +21,6 @@ O **SIGIC** é um sistema desenvolvido em Python que representa computacionalmen
 
 ---
 
-## 📁 Estrutura de Arquivos
-
-```
-projeto_sigic/
-│
-├── codigo_fonte.py               ← Arquivo principal do sistema (EXECUTE ESTE)
-├── rede_colonia.pdf              ← Diagrama visual da rede da colônia
-├── documentacao_complementar.pdf ← Documentação com modelagem matemática
-├── link_video.txt                ← Link do vídeo no YouTube
-├── README.md                     ← Este arquivo
-│
-└── arquivos_auxiliares/          ← Pasta com scripts auxiliares
-    ├── gerar_pdf_rede.py         ← Gera o diagrama da rede em PDF
-    └── gerar_documentacao.py     ← Gera a documentação complementar em PDF
-```
-
----
-
-## ▶️ Como Executar
-
-### Pré-requisitos
-
-- Python 3.7 ou superior
-- Nenhuma biblioteca externa é necessária para o sistema principal
-
-```bash
-python3 codigo_fonte.py
-```
-
-ou, no Windows:
-
-```bash
-python codigo_fonte.py
-```
-
-> Os scripts auxiliares de geração de PDF requerem `reportlab`:
-> `pip install reportlab`
-
----
-
-## 🖥️ Menu do Sistema
-
-Ao executar o arquivo principal, o seguinte menu estará disponível:
-
-```
 ============================================================
   SIGIC — Sistema Inteligente de Gerenciamento da Infraestrutura da Colônia
 ============================================================
