@@ -97,7 +97,7 @@ Ao executar o arquivo principal, o seguinte menu estará disponível:
 
 ## 🎥 Vídeo de Apresentação
 
-O link do vídeo de apresentação está disponível no arquivo `link_video.txt`.
+O link do vídeo de apresentação está disponível no arquivo `video`.
 
 ---
 
