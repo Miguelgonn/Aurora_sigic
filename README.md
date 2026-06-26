@@ -97,7 +97,7 @@ Ao executar o arquivo principal, o seguinte menu estará disponível:
 
 ## 🎥 Vídeo de Apresentação
 
-O link do vídeo de apresentação está disponível no arquivo `[video](https://youtu.be/FLWwIds0gMw)`.
+O link do vídeo de apresentação está disponível no arquivo `https://www.youtube.com/watch?v=FLWwIds0gMw`.
 
 ---
 
